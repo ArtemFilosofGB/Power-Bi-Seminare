@@ -191,6 +191,13 @@ IF (
 
 Обратите внимание: это практическое задание обязательно к сдаче для получения итогового документа об обучении
 
+# Homework 06 final
+
+![](/pic/pic01.png)
+![](/pic/pic02.png)
+![](/pic/pic03.png)
+
+
 # Полезное
 Форматирование DAX
 [https://www.daxformatter.com/](https://www.daxformatter.com/ "DAX Formater")
